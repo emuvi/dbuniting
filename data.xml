@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<USUARIO LOGIN="joao" NOME="Joao" EMAIL="joao@mail.com" SENHA="jjj" PONTOS="3" />
+	<USUARIO LOGIN="maria" NOME="Maria" EMAIL="maria@mail.com" SENHA="mmm" PONTOS="9" />
+	<USUARIO LOGIN="jose" NOME="Jose" EMAIL="jose@mail.com" SENHA="sss" PONTOS="6" />
+</dataset>
